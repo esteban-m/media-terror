@@ -1,3 +1,7 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: Media Terror
+!--------------------------------------------------------------------!
 ||images.outbrain.com/Imaginarium/api/uuid/14bcff2179bb6cef3fa8899c267d55cf4ffab59c7080cde3dab4f7e8e45e2eab/300/188/1.0
 ||images.outbrain.com/Imaginarium/api/uuid/8ee2e8643aa69f73c1b9a076e3cc4a8364ec8f4124373f1cee678a62495b01e9/300/188/1.0
 ||images.outbrain.com/Imaginarium/api/uuid/283e3fae0ccaa7665bd8b158e0c35566e5423c7143a02023fcac0c1a6658a5a7/300/188/1.0
@@ -30,3 +34,4 @@ lemonde.fr##.sociaux_suivre
 lemonde.fr##.block_eleifend
 lemonde.fr###teaser_article
 lemonde.fr##.teaser_article.js_teaser_article
+!--------------------------------------------------------------------!
