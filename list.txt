@@ -7,4 +7,6 @@ leparisien.fr##*
 lemonde.fr##*
 lefigaro.fr##*
 bfmtv.com##*
+lexpress.fr##*
+nouvelobs.com##*
 !--------------------------------------------------------------------!
