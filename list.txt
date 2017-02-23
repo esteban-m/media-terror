@@ -4,6 +4,7 @@
 !--------------------------------------------------------------------!
 leparisien.fr##*
 20minutes.fr##*
+20min.ch##*
 lemonde.fr##*
 lefigaro.fr##*
 bfmtv.com##*
