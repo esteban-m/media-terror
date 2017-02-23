@@ -15,4 +15,5 @@ sudpresse.be##*
 bing.fr/news##*
 bing.com/news##*
 fdesouche.com##*
+dhnet.be##*
 !--------------------------------------------------------------------!
