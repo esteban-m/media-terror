@@ -11,4 +11,6 @@ lexpress.fr##*
 nouvelobs.com##*
 sudinfo.be##*
 sudpresse.be##*
+bing.fr/news##*
+bing.com/news##*
 !--------------------------------------------------------------------!
