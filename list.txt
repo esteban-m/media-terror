@@ -9,4 +9,6 @@ lefigaro.fr##*
 bfmtv.com##*
 lexpress.fr##*
 nouvelobs.com##*
+sudinfo.be##*
+sudpresse.be##*
 !--------------------------------------------------------------------!
